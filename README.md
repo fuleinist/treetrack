@@ -1,4 +1,4 @@
-<img src="docs/logo.png" alt="treetrack logo" width="180" />
+<img src="docs/logo.svg" alt="treetrack logo" width="180" />
 
 # treetrack
 
